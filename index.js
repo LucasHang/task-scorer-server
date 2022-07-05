@@ -1,5 +1,5 @@
 const express = require("express");
-const Gun = require("Gun");
+const Gun = require("gun");
 
 const app = express();
 
