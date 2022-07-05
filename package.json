@@ -1,0 +1,16 @@
+{
+  "name": "task-scorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasHang/task-scorer.git",
+  "author": "Lucas Hang <lucas.hhang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js",
+    "prod": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "gun": "^0.2020.1237"
+  }
+}
